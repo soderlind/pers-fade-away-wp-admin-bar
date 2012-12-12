@@ -3,7 +3,7 @@ Contributors: PerS
 Donate link: http://soderlind.no/donate/
 Tags: admin bar, hide, fade
 Requires at least: 3.1
-Tested up to: 3.1
+Tested up to: 3.5
 Stable tag: trunk
 
 Fade away the WordPress Admin Bar when you scroll down the page.
