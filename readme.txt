@@ -2,9 +2,9 @@
 Contributors: PerS
 Donate link: http://soderlind.no/donate/
 Tags: admin bar, hide, fade
-Requires at least: 3.1
-Tested up to: 3.5
-Stable tag: trunk
+Requires at least: 3.5
+Tested up to: 3.9
+Stable tag: 1.0.2
 
 Fade away the WordPress Admin Bar when you scroll down the page.
 
@@ -12,7 +12,7 @@ Fade away the WordPress Admin Bar when you scroll down the page.
 
 Instead of disabling the WordPress 3.1 Admin Bar, use this plugin, based on [Codrops Fixed Fade Out Menu](http://tympanus.net/Tutorials/FixedFadeOutMenu/), to [fade away the WordPress Admin Bar](http://screencast.com/t/13NEaWQBV) when you scroll down the page.
 
-For more information, please see the [plugin home page](http://soderlind.no/archives/2011/02/25/fade-away-wordpress-admin-bar/) 
+For more information, please see the [plugin home page](http://soderlind.no/archives/2011/02/25/fade-away-wordpress-admin-bar/)
 
 == Installation ==
 
@@ -28,8 +28,9 @@ For more information, please see the [plugin home page](http://soderlind.no/arch
 
 
 == Changelog ==
-
-= 1.0.1 = 
+= 1.0.2 =
+* Tested with WordPress 3.9, bumped version number
+= 1.0.1 =
 * Thanks to @TheFrosty, added is_admin_bar_showing()
-= 1.0.0 = 
+= 1.0.0 =
 * initial release
